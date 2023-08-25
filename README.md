@@ -1,6 +1,6 @@
-# artem_zubkov
+### artem_zubkov
 
-# example of this application https://oldschool1705.github.io/oldschool.github.io/
+### example of this application https://oldschool1705.github.io/oldschool.github.io/
 
 ## Project Setup
 
